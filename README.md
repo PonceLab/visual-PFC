@@ -1,2 +1,2 @@
 # visual-PFC
-Code pertinet to Rose and Ponce, 2024
+Code pertinent to Rose and Ponce, 2024
